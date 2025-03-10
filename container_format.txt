@@ -1,1 +1,2 @@
-CONTAINER ID   NAMES     STATUS
+CONTAINER ID   NAMES           STATUS
+7e97b36b2fe9   mi_contenedor   Up About a minute

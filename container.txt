@@ -1,1 +1,2 @@
-CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+CONTAINER ID   IMAGE     COMMAND                  CREATED              STATUS              PORTS     NAMES
+7e97b36b2fe9   nginx     "/docker-entrypoint.…"   About a minute ago   Up About a minute   80/tcp    mi_contenedor
